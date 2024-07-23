@@ -2,6 +2,8 @@ site_name: RapidOS Docs
 
 theme:
   name: mkdocs
+  color_mode: dark
+  locale: ru, en
   highlightjs: true
   hljs_languages:
     - yaml
