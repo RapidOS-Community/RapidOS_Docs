@@ -1,4 +1,8 @@
 site_name: RapidOS Docs
 
 theme:
-  name: material
+  name: mkdocs
+  highlightjs: true
+  hljs_languages:
+    - yaml
+    - rust
