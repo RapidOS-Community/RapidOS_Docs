@@ -1,7 +1,8 @@
 site_name: RapidOS Docs
 
 theme:
-  name: mkdocs
+  name: material
+  custom_dir: overrides
   color_mode: dark
   locale: en
   highlightjs: true
